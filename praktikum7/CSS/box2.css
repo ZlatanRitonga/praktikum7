@@ -1,0 +1,45 @@
+.kontener1{
+    margin: 1em;
+    background-color: aqua;
+    height: 150px;
+    border: 2px solid;
+}
+
+.kontener2{
+    display: flex;
+    margin: 1em;
+}
+
+.box1{
+    width: 19%;
+    background-color: yellow;
+    border: 2px solid;
+    height: 250px;
+    margin-right: 1%;
+}
+
+.box2{
+    width: 80%;
+    background-color: brown;
+    border: 2px solid;
+    height: 250px;
+}
+
+.kontener3{
+    display: flex;
+    margin: 1em;
+}
+.box3{
+    width: 19%;
+    background-color: yellow;
+    border: 2px solid;
+    height: 250px;
+    margin-right: 1%;
+    }
+
+.box4{
+    width: 80%;
+    background-color: royalblue;
+    border: 2px solid;
+    height: 250px;
+}

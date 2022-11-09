@@ -1,0 +1,43 @@
+.kontener{
+    display: flex;
+    justify-content: center;
+}
+
+.kontainer2{
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+}
+
+.box1{
+    background-color: aqua;
+    width: 20%;
+    height: 50em;
+    margin: 2em 1em;
+}
+
+.box2{
+    background-color: aquamarine;
+    width: 20%;
+    height: 50em;
+    margin: 2em 1em;
+}
+
+.box3{
+    background-color: beige;
+    width: 20%;
+    height: 50em;
+    margin: 2em 1em;
+}
+
+.box4{
+    background-color: blue;
+    width: 20%;
+    height: 50em;
+    margin: 2em 1em;
+}
+
+img{
+    width: 300px;
+    margin: 1em;
+}

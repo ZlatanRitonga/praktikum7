@@ -1,0 +1,48 @@
+.kontener3{
+    margin: 1em;
+    display: flex;
+}
+
+.box1{
+    background-color: aqua;
+    width: 20%;
+    height: 150px;
+    margin-right: 1%;
+}
+
+.box2{
+    background-color: orange;
+    width: 80%;
+    height: 150px;
+}
+
+.kontener4{
+    margin: 1em;
+    display: flex;
+}
+
+.box3{
+    background-color: green;
+    width: 20%;
+    height: 700px;
+    margin-right: 1%;
+}
+
+.box4{
+    background-color: grey;
+    width: 58%;
+    height: 700px;
+}
+
+.box5{
+    background-color: blue;
+    width: 20%;
+    height: 700px;
+    margin-left: 1%;
+}
+
+.kontener5{
+    margin: 1em;
+    background-color: blue;
+    height: 150px;
+}
